@@ -15,7 +15,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8">
-                <form method="POST" action="belanja.php">
+                <form method="POST" action="Belanja.php">
                     <div class="form-group row">
                         <label for="customer" class="col-2 col-form-label">Customer</label>
                         <div class="col-7">
